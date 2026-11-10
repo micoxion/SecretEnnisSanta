@@ -1,0 +1,62 @@
+html {
+    background-color: rgb(68, 83, 64);
+}
+
+h1.title {
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+
+table {
+    margin: auto;
+    border-spacing: 0px;
+    border-left: 1px solid;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    width: 85%;
+}
+
+td.subsection-title {
+    font-weight: bold;
+    background-color: #ff2525;
+}
+
+td.subsection-item {
+    padding-left: 10px;
+}
+
+tr:nth-child(odd) .subsection-item {
+    background-color: rgb(218, 174, 174);
+}
+
+tr:nth-child(even) .subsection-item {
+    background-color: rgb(207, 154, 154);
+}
+
+td, th {
+    border-right: 1px solid;
+    margin: 0px;
+    font-family: sans-serif;
+    font-size: 1.2em;
+    padding: 5px 5px 5px 5px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:nth-child(odd) {
+    background-color: white;
+}
+
+th {
+    text-align: left;
+    background-color: #b65050;
+    border-bottom: 1px solid;
+}
+
+td {
+    width: 10%;
+}
