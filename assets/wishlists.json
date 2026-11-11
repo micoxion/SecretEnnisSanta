@@ -50,7 +50,41 @@
         {
             "name" : "Addy",
             "wishlist" : [
-                
+                {
+                    "link" : "https://www.vans.com/en-us/p/shoes/icons/classic-slip-on-5315/classic-slip-on-shoe-VN000Z2K3N1?size=4.5+Boys+%3D+6.0+Women",
+                    "name" : "(i think the size and color should come up with the link but i would like the brown checkerboard and i wear size 6 in women's)"
+                },
+                {
+                    "link" : "https://middleofbeyond.com/products/shin-godzilla-poster-t-shirt?variant=43037654155360",
+                    "name" : "Shin Godzilla T-Shirt (Size small or medium)"
+                },
+                {
+                    "link" : "https://www.dyenamik.com/products/baldurs-gate-3-playing-cards-collectors-edition?utm_source=meta&utm_medium=cpc&utm_campaign=PN+%7C+PROSPECTING+%7C+7DC+%7C+mVOL+%7C+CBO+%7C+GAMING+CARDS&utm_content=PN+%7C+STATIC+%7C+BG3+%7C+CREATIVE+ECOMM&campaign_id=120245757223650465&ad_id=120246273308420465&utm_id=120245757223650465&utm_term=120245757226090465",
+                    "name" : "Baldurs Gate 3 Playing Cards"
+                },
+                {
+                    "link" : "https://www.culturekings.com/products/73studio-x-fallout-new-vegas-lucky-38-t-shirt-black-acidwash",
+                    "name" : "Fallout Shirt (size xs or s)"
+                },
+                {
+                    "link" : "https://www.amazon.com/dp/B000SKHSRU/?coliid=I11S412C7O6I3P&colid=1EPMG7BMIFLFM&psc=1&ref_=cm_sw_r_apin_lstpd_CPPSPGVSEYCEH4G2FSK8&language=en-US",
+                    "name" : "Stylophone The Original Pocket Electronic Synthesizer | Synth Musical Instrument | Synthesizer Keyboard | Stylophone Instrument Synth"
+                },
+                {
+                    "link" : "https://www.amazon.com/dp/1646516338/?coliid=I1G0GA7UTCZ9S5&colid=1EPMG7BMIFLFM&psc=1&ref_=cm_sw_r_apin_lstpd_CPPSPGVSEYCEH4G2FSK8_1&language=en-US",
+                    "name" : "PTSD Radio Omnibus 2 (Vol. 3-4) (PTSD Radio 2-in-1)"
+                },
+                {
+                    "link" : "https://a.co/d/0feA1yx4",
+                    "name" : "Razer BlackShark V2 X (Headphones)"
+                },
+                {
+                    "link" : "https://a.co/d/0dKO2WTk",
+                    "name" : "Razer Orochi V2 Wireless Mouse"
+                },
+                {
+                    "name" : "Gift Card for Free People or Uniqlo Stores :)"
+                }
             ]
         },
         {
