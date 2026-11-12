@@ -44,7 +44,27 @@
         {
             "name" : "Nick",
             "wishlist" : [
-                
+                {
+                    "name" : "Warhammer stuff"
+                },
+                {
+                    "name" : "Transformers stuff of course"
+                },
+                {
+                    "name" : "Video game accessories"
+                },
+                {
+                    "name" : "Computer mice"
+                },
+                {
+                    "name" : "Blokees things"
+                },
+                {
+                    "name" : "Yolopark things"
+                },
+                {
+                    "name" : "PlayStation or steam gift cards"
+                }
             ]
         },
         {
