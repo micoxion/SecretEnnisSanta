@@ -3,7 +3,28 @@
         {
             "name" : "Justin",
             "wishlist" : [
-                
+                {
+                    "name" : "<a href=\"https://poorlydrawnstore.com/\">Poorly Drawn Store</a> - I like everything from here. I like the things that are naughty like when the cat flips people off but since I like to put these things in my office maybe those aren't for me. So, non-naughty things."
+                },
+                {
+                    "link" : "https://www.amazon.com/dp/B00AZWYUA4",
+                    "name" : "rOtring 600 mechanical pencil, 0.5 mm"
+                },
+                {
+                    "name" : "<a href=\"https://amazon.com/dp/190683881X\">The Motherless Oven</a> - I'd like to read this weird graphic novel."
+                },
+                {
+                    "name" : "<a href=\"https://amazon.com/Transmetropolitan-Book-Two-Warren-Ellis/dp/1401294308/\">Transmetropolitan Book 2</a> - I read the first one and I'd like to read the second one."
+                },
+                {
+                    "name" : "<a href=\"https://www.torani.com/dirty-soda-sampler-50ml-5-pack-variety-pack.html\">Torani Syrup Dirty Soda 5-Pack Variety Pack</a> - I like Torani syrups and dirty sodas so this little sampler pack seems good."
+                },
+                {
+                    "name" : "<a href=\"https://www.strikegently.co/products/live-laugh-toaster-bath-pin\">Live Laugh Toaster Bath</a> - This pin makes me laugh a lot."
+                },
+                {
+                    "name" : "<a href=\"https://amazon.com/SIQUK-Pieces-Leather-Folding-Hexagon/dp/B08ML8XWDT\">Dice Rolling Tray</a> - I'd like a dice rolling tray. Some of you have these already. Maybe this is a link to a good one? I don't know. If you have one you like, give it to me. No, I'm kidding, buy one of those for me, instead."
+                }
             ]
         },
         {
@@ -169,7 +190,7 @@
                     "name" : "Steam Gift Card, I like Vija Games"
                 },
                 {
-                    "name" : "Any of the following nendoroids:\n- Saitama\n- Hornet (Hollow Knight)\n- Killua\n- Tanjiro Kamado (Demon Slayer)"
+                    "name" : "Any of the following nendoroids:<br>- Saitama<br>- Hornet (Hollow Knight)<br>- Killua<br>- Tanjiro Kamado (Demon Slayer)"
                 },
                 {
                     "link" : "https://materia.store/products/stardew-valley-piano-collections-sheet-music-book?variant=12658370805845&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gad_campaignid=23184257653&gbraid=0AAAABByI624jQoZ_uNkb-7UOrsC5We7Hx&gclid=Cj0KCQiA-8XXBhDaARIsADnEOrDqH-T9hC2Hq0DUg4hX9jdTyHNJJcqHngNcn7-Eyn1VZ8y-OUWbz6kaAru1EALw_wcB",
@@ -184,7 +205,27 @@
         {
             "name" : "Laurel",
             "wishlist" : [
-                
+                {
+                    "name" : "Any Coco Wyo coloring book (I don't own any yet so whichever one!)"
+                },
+                {
+                    "name" : "Ohuhu Markers, double sided with chisel tip <a href=\"https://a.co/d/0daa2wdR\">https://a.co/d/0daa2wdR</a>"
+                },
+                {
+                    "name" : "Elena Essex Puzzle (or any other cute non-ai puzzle) <a href=\"https://a.co/d/052BdHUF\">https://a.co/d/052BdHUF</a>"
+                },
+                {
+                    "name" : "Any Sanrio things, I like cinnamoroll and pompompurin"
+                },
+                {
+                    "name" : "Any studio ghibli things, Totoro or Kiki’s delivery or howls moving castle etc."
+                },
+                {
+                    "name" : "Any fashion things/accessories, socks, purses, hair clips etc."
+                },
+                {
+                    "name" : "Any “nail tech” fashion things like hats, sweatshirts, t-shirts, hoodies, keychains etc."
+                }
             ]
         }
     ]
