@@ -13,10 +13,11 @@ h1.title {
 table {
     margin: auto;
     border-spacing: 0px;
-    border-left: 1px solid;
-    border-top: 1px solid;
-    border-bottom: 1px solid;
+    border-radius: 20px;
     width: 85%;
+    -moz-box-shadow: 0px 0px 10px #000000;
+    -webkit-box-shadow: 0px 0px 10px #000000;
+    box-shadow: 0px 0px 10px #000000;
 }
 
 td.subsection-title {
@@ -28,6 +29,14 @@ td.subsection-item {
     padding-left: 10px;
 }
 
+td {
+    transition: width .5s ease-in;
+}
+
+td:hover {
+    width: 40%;
+}
+
 tr:nth-child(odd) .subsection-item {
     background-color: rgb(218, 174, 174);
 }
@@ -37,7 +46,7 @@ tr:nth-child(even) .subsection-item {
 }
 
 td, th {
-    border-right: 1px solid;
+    /* border-right: 1px solid; */
     margin: 0px;
     font-family: sans-serif;
     font-size: 1.2em;
@@ -53,9 +62,26 @@ tr:nth-child(odd) {
 }
 
 th {
-    text-align: left;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
     background-color: #b65050;
-    border-bottom: 1px solid;
+}
+
+th:first-child {
+    border-radius: 20px 0 0 0;
+}
+
+th:last-child {
+    border-radius: 0 20px 0 0;
+}
+
+tr:last-child td:first-child {
+    border-radius: 0 0 0px 20px;
+}
+
+tr:last-child td:last-child {
+    border-radius: 0 0 20px 0;
 }
 
 td {
